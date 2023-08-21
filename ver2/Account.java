@@ -7,9 +7,6 @@ public class Account {
 
 
     // Constructor
-    public Account(double balance) {
-        this("Unknown", balance);
-    }
 
 
     private String name;
