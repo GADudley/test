@@ -1,8 +1,1 @@
-<<<<<<< HEAD
-Hello Germaine Dudley
-=======
-Hello Germaine Dudley
->>>>>>> newfeature2
-Glad you could join them.
-Welcome back.
-Roundabout
+Friday
